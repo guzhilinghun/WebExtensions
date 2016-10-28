@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "description": "Baidu Translator From EN To CN-zh",
+  "name": "Baido_Translator",
+  "version": "1.0",
+  // "homepage_url": "",
+  "icons": {
+    "48": "icons/icon-256.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.baidu.com/*"
+      ],
+      "js": [
+        "jquery.js",
+        "translator.js"
+      ]
+    }
+  ]
+}
