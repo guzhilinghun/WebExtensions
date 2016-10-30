@@ -10,12 +10,16 @@
   "content_scripts": [
     {
       "matches": [
-        "*://*.baidu.com/*"
+        "*://*/*"
       ],
       "js": [
         "jquery.js",
         "translator.js"
       ]
     }
+  ],
+  "permissions": [
+    "*://*.baidu.com/*",
+    "webRequest"
   ]
 }
