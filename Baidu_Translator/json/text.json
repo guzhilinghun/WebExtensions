@@ -1,0 +1,17 @@
+{
+    "trans_result": {
+        "data": [
+            {
+                "dst": "Apache Derby\u9879\u76ee\u5f88\u9ad8\u5174\u5730\u5ba3\u5e03\u91ca\u653e10.13.1.1\u7279\u5f81\u3002"
+            },
+            {
+                "dst": "Apache Derby\u662f\u4e00\u4e2a\u5b50\u9879\u76ee\u7684ApacheDB\u9879\u76ee\u3002\u5fb7\u6bd4\u662f\u4e00\u4e2a\u7eafjava\u5173\u7cfb\u6570\u636e\u5e93"
+            }
+        ]
+    },
+    "dict_result": []
+}
+
+
+
+trans-tooltip

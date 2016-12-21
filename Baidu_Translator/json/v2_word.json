@@ -1,0 +1,68 @@
+{
+    "trans_result": {
+        "data": [
+            {
+                "dst": "\u7231"
+            }
+        ]
+    },
+    "dict_result": {
+        "simple_means": {
+            "word_name": "love",
+            "exchange": {
+                "word_third": [
+                    "loves"
+                ],
+                "word_done": [
+                    "loved"
+                ],
+                "word_pl": [
+                    "loves"
+                ],
+                "word_est": "",
+                "word_ing": [
+                    "loving"
+                ],
+                "word_er": "",
+                "word_past": [
+                    "loved"
+                ]
+            },
+            "symbols": [
+                {
+                    "ph_am": "l\u028cv",
+                    "ph_en": "l\u028cv",
+                    "parts": [
+                        {
+                            "part": "vt.&vi.",
+                            "means": [
+                                "\u559c\u6b22",
+                                "\u7231\uff0c\u70ed\u7231",
+                                "\u7231\u6234",
+                                "\u8d5e\u7f8e\uff0c\u79f0\u8d5e"
+                            ]
+                        },
+                        {
+                            "part": "vt.",
+                            "means": [
+                                "\u559c\u6b22",
+                                "\u559c\u7231",
+                                "\u559c\u597d",
+                                "\u7231\u6155"
+                            ]
+                        },
+                        {
+                            "part": "n.",
+                            "means": [
+                                "\u70ed\u7231",
+                                "\u7231\u60c5\uff0c\u7231\u610f",
+                                "\u75bc\u7231",
+                                "\u7231\u4eba\uff0c\u6240\u7231\u4e4b\u7269"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "trans_result": {
+        "data": [
+            {
+                "dst": "\u6c7d\u8f66"
+            }
+        ]
+    },
+    "dict_result": {
+        "simple_means": {
+            "word_name": "car",
+            "word_means": [
+                "\u6c7d\u8f66",
+                "\u8f7f\u8f66",
+                "\u8f66\u53a2"
+            ],
+            "exchange": {
+                "word_third": "",
+                "word_done": "",
+                "word_pl": [
+                    "cars"
+                ],
+                "word_est": "",
+                "word_ing": "",
+                "word_er": "",
+                "word_past": ""
+            },
+            "items": [
+                ""
+            ],
+            "symbols": [
+                {
+                    "ph_am_mp3": "\/1\/0\/e6\/d9\/e6d96502596d7e7887b76646c5f615d9.mp3",
+                    "ph_am": "k\u0251r",
+                    "ph_en_mp3": "\/oxford\/0\/f7\/28\/f72801df7dc8421682f4b4c6b99746cb.mp3",
+                    "ph_en": "k\u0251:(r)",
+                    "ph_other": "",
+                    "parts": [
+                        {
+                            "part": "n.",
+                            "means": [
+                                "\u6c7d\u8f66",
+                                "\u8f7f\u8f66",
+                                "\u8f66\u53a2"
+                            ]
+                        }
+                    ],
+                    "ph_tts_mp3": "\/e\/6\/d\/e6d96502596d7e7887b76646c5f615d9.mp3"
+                }
+            ]
+        }
+    }
+}

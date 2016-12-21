@@ -1,6 +1,6 @@
 function callTranslateApi(originalText, successCallback) {
 	$.ajax({
-		url: "http://fanyi.baidu.com/transapi",
+		url: "http://fanyi.baidu.com/v2transapi",
 		type: "POST",
 		dataType: "json",
 		data: {

@@ -1,0 +1,41 @@
+{
+    "trans_result": {
+        "data": [
+            {
+                "dst": "\u7231\u4f60",
+                "src": "love you"
+            }
+        ]
+    },
+    "dict_result": {
+        "simple_means": {
+            "word_name": "love you",
+            "word_means": [
+                "\u7231\u4f60"
+            ],
+            "exchange": {
+                "word_third": "",
+                "word_done": "",
+                "word_pl": "",
+                "word_est": "",
+                "word_ing": "",
+                "word_er": "",
+                "word_past": ""
+            },
+            "symbols": [
+                {
+                    "ph_am": "l\u028cv ju",
+                    "ph_en": "l\u028cv ju:",
+                    "parts": [
+                        {
+                            "part": "",
+                            "means": [
+                                "\u7231\u4f60"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
